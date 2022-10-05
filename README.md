@@ -24,7 +24,7 @@ pip install pyvis
 ```
 **Conceptual idea to detects fraud transactions:**
 
-Based on the criteria mentioned in the paper [1][##Reference], following facts are considered to detect a possible fraud transaction
+Based on the criteria mentioned in the paper [[1]](https://github.com/shakhscode/VisualAnalyticsUsingGraphNetworks#reference), following facts are considered to detect a possible fraud transaction
 - The amount of fraudulent transactions is smaller than the average amount of transaction by all users.
 
 - The mules can perform legitimate transactions but a sudden change in transfered money amounts corresponds to an anomaly.
@@ -85,7 +85,7 @@ A detailed view of the transactions.
 
 ### Step 2:
 
-In the created graph network a node either represents a ‘sender account id’ or a ‘receiver account id’ So the nodes with higher degree represents the accounts that did maximum transactions. After finding the mostly used accounts samples are segregated according to the method [1,2] to find fraud transactions.
+In the created graph network a node either represents a ‘sender account id’ or a ‘receiver account id’ So the nodes with higher degree represents the accounts that did maximum transactions. After finding the mostly used accounts samples are segregated according to the method [[1,2]](https://github.com/shakhscode/VisualAnalyticsUsingGraphNetworks#reference) to find fraud transactions.
 
 [File to segregate fraud transactions](GraphicalAnalysis.ipynb)
 
