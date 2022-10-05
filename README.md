@@ -1,4 +1,4 @@
-## Detection of Fradulent Transactions by Graphical Analysis
+## Detection of Fraudulent Transactions by Graphical Analysis
 ## Problem Statement:
 
 A dataset containing finacial transactions between bank customers are given. Main task is to find out the fraud transactions using visualization techniquies only (without using any machine learning algorithm).
@@ -12,7 +12,7 @@ A dataset containing finacial transactions between bank customers are given. Mai
 ## Used technologies and concepts.
 **Programming language**: Python. 
 
-**Method:** Visual analysis using network graphs.
+**Method:** Visual analysis using graph networks.
 
 **Used libraries**: numpy, pandas, matplotlib, seaborn, networkx, pyvis-Network
 
