@@ -96,7 +96,7 @@ Normal transactions are visualised in blue color and possible fraud transactions
 
 
 ### 5. Colclusion
-Out of total 54222 transactions 3614 transactions are suspected to be fraud transaction.
+Out of total 54222 transactions 3614 transactions are suspected to be fraud transactions.
 
 ## Reference  
 [1] Evgenia Novikova, Igor Kotenko and Evgenii Fedotov. Interactive Multi-View Visualization for
@@ -109,6 +109,6 @@ Advances in Security, Information and Event Management (RaSIEM 2013) (pp. 662-66
 York: IEEE.
 
 
-**Note:**
+---
 - This was my final assignment for the subject 'Data and Visual Analytics' in 3rd semester of my master degree. I passed the assignment with this solution and was given highest mark out of 13 students in the class.
 - For any mistakes or for any suggestion to improve feel free to contact me. [Email](getssultan@gmail.com)
